@@ -1,15 +1,40 @@
 
-### <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" width="24"/><br/> Hi there! Nice to see you. 👋</h1>
 
-<p>Welcome to my page! <br/> I'm Yahor Hurski, Front-end developer from <b>Belarus</b>, currently living in <b>Minsk</b>.</p>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" width="24"/><br/> Hi there! Nice to see you. 👋</h1>
 
-> <p>Looking for a good specialist ? <img align="center" src="https://emojis.slackmojis.com/emojis/images/1643515005/10343/arrow-down.gif?1643515005" alt="Arrow Down" width="24" height="24" /> <p/> 
 
-### <h3> <img width="24" height="24" align="center" src="https://emojis.slackmojis.com/emojis/images/1660415351/60619/handshake.gif?1660415351"/> Contacts: </h3>
+<div>
+    <img
+      width="350"
+      align="right"
+      src="coding.gif"
+    />
+</div>
+
+
+ <p>Welcome to my page! I'm Yahor Hurski, Front-end developer from <b>Minsk, Belarus</b>.
+
+  *Love the variety of specialty coffee and high grade chinese tea.*
+  
+You can see the results of my public work on this profile page.</p><br/><br/><br/><br/><br/><br/>
+
+---
+<div align="center">
+
+
+***<p>Looking for a good specialist ? <img align="center" src="https://emojis.slackmojis.com/emojis/images/1643515005/10343/arrow-down.gif?1643515005" alt="Arrow Down" width="24" height="24" /> <p/>***
+
+
+<!-- <h3> <img width="24" height="24" align="center" src="https://emojis.slackmojis.com/emojis/images/1660415351/60619/handshake.gif?1660415351"/> Contacts: </h3> -->
 
 
 [![Telegram](https://img.shields.io/badge/-telegram-4D89D7?style=for-the-badge&logo=telegram&amp;logoColor=FFFFFF)](https://t.me/rzhavoevremya)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-4D89D7?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
+*I'm always up for new connections and collaborations.*
+</div>
+
+---
 
 <h3>Things I code with:</h3>
 <p>
