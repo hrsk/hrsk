@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" width="24"/> Hi there 👋! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" width="24"/><br /> Hi there! Nice to see you. 👋</h1>
 
 
 <p>Welcome to my page! </br> I'm Yahor Hurski, Front-end developer from <b>Belarus</b>, currently living in <b>Minsk, Belarus</b>.</p>
@@ -21,11 +21,11 @@
 
 <!-- start work project section -->
 <details>
-<summary><b> My Work Project :point_right:</b></summary>
+<summary><b>My Learning Projects<img alt="Arrow" src="https://emojis.slackmojis.com/emojis/images/1643515005/10345/arrow-right.gif?1643515005"/></b></summary>
 <table>
   <thead>
     <tr>
-      <th>Project Name</th>
+      <th>Project</th>
       <th>Skills used</th>
       <th>Description</th>
     </tr>
@@ -34,7 +34,7 @@
     <tr>
       <td><a href='https://github.com/hrsk/samurai-way'>Social Network</a></td>
       <td>HTML, CSS, React, Redux, Typescript, Redux-Form, Formik, Axios, Jest</td>
-      <td>this is my first task project</td>
+      <td>This is my first project that started my programming training</td>
     </tr>
     <tr>
       <td><a href='https://hrsk.github.io/counter/'>Counter</a></td>
