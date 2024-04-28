@@ -1,7 +1,7 @@
-<h1><img src="https://slackmojis.com/emojis/12254-stockrocket" width="24"/> Hi there 👋! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" width="24"/> Hi there 👋! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Yahor Hurski, Front-end developer from <img src="https://slackmojis.com/emojis/9960-belarus" width="14"/> <b>Belarus</b>, currently living in <b>Minsk, Belarus</b>. </p>
+<p>Welcome to my page! </br> I'm Yahor Hurski, Front-end developer from <b>Belarus</b>, currently living in <b>Minsk, Belarus</b>.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
