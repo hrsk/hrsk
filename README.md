@@ -21,7 +21,7 @@
 
 <!-- start work project section -->
 <details>
-<summary><b>My Learning Projects<img alt="Arrow" src="https://emojis.slackmojis.com/emojis/images/1643515005/10345/arrow-right.gif?1643515005"/></b></summary>
+<summary><b>My Learning Projects<picture><img alt="Arrow" src="https://emojis.slackmojis.com/emojis/images/1643515005/10345/arrow-right.gif?1643515005" width="24"/></picture></b></summary>
 <table>
   <thead>
     <tr>
