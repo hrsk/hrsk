@@ -6,8 +6,8 @@
 It's the fastest way to reach out!
 
 My projects: 
-1. 📝 [**Lettergen**]
-   Small SPA for generating and managing job application letters. *PixelPerfect layout*. Technologies that used here : **Typescript**, **React**, **Zustand**, **react-hook-form**, **Zod**, **react-router-dom**. [Code]([https://github.com/hrsk/main-todolis](https://github.com/hrsk/lettergen)
+1. 📝 [**Lettergen**](https://hrsk.github.io/lettergen/)
+   Small SPA for generating and managing job application letters. *PixelPerfect layout*. Technologies that used here : **Typescript**, **React**, **Zustand**, **react-hook-form**, **Zod**, **react-router-dom**. [Code](https://github.com/hrsk/lettergen)
 
 #### 🎯 I'm  always up for new connections and collaborations
 
