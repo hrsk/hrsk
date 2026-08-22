@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Welcome! My name is Yahor Hurski.
+### 👨🏻‍💻 I'm a Front-end Developer.
+#### 🤝 Contact details:
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/rzhavoevremya)
 
-<!--
-**hrsk/hrsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's the fastest way to reach out!
 
-Here are some ideas to get you started:
+My projects: 
+1. 📝 [**Lettergen**]
+   Small SPA for generating and managing job application letters. *PixelPerfect layout*. Technologies that used here : **Typescript**, **React**, **Zustand**, **react-hook-form**, **Zod**, **react-router-dom**. [Code]([https://github.com/hrsk/main-todolis](https://github.com/hrsk/lettergen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎯 I'm  always up for new connections and collaborations
+
+### 💌 Mail me: hrsk@gmail.com
